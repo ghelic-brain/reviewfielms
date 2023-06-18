@@ -1,5 +1,3 @@
-import Actor from "./actor";
-import Plan from "./plan";
 
 export default class Episodio{
     public nombre:string;

@@ -1,4 +1,4 @@
-import Serie from "./serie";
+import Serie from "./serie.js";
 
 export default class Actor{
     public nombre:string;
